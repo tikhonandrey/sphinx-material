@@ -12,7 +12,8 @@ html{
     text-size-adjust:none
 }
 body{
-    margin:0
+    margin:0;
+    background-color: green;
 }
 hr{
     overflow:visible;
